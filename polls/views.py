@@ -167,7 +167,7 @@ class Linux(object):
     def exec(self):
         ...
 
-l1 = Linux('47.100.25.73', 'root', '@alyshj)OKM0okm', timeout=30)
+l1 = Linux('47.100.25.73', 'xxxxx', 'xxxxxxx', timeout=30)
 l1.connect()
 l1.upload()
 
